@@ -1,4 +1,3 @@
-# Yash-Garg
 # 💫 About Me:
 🛠️ I’m currently working on full-stack web development projects and improving my problem-solving skills in Data Structures & Algorithms.<br><br>🤝 I’m looking to collaborate on hackathons, and innovative web apps.<br><br>🙌 I’m looking for help with building scalable applications and mastering advanced Java + backend frameworks.<br><br>🌱 I’m currently learning Java, Spring Boot, SQL, and modern frontend technologies (React, Tailwind).<br><br>💬 Ask me about web development, Java, databases, or project ideas.<br><br>⚡ Fun fact: I love building projects that solve real-life problems and I enjoy explaining tech concepts in simple words!
 
